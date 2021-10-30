@@ -4,4 +4,4 @@ Patika Dev HTML kursundaki ödev için hazırlanmış örnek bir HTML sayfasıd�
 ## Hakkımda
 ## Filmler
 ## Hobiler
-### içermektedir.
+içermektedir.
